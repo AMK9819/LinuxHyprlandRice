@@ -1,0 +1,1 @@
+# LinuxHyprlandRice
